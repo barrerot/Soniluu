@@ -4,11 +4,19 @@
     <string name="app_name">Soniluu</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+
     <color name="color_01">#ed5c76</color>
     <color name="color_02">#f09693</color>
     <color name="color_03">#f9cdad</color>
     <color name="color_04">#c3c39e</color>
     <color name="color_05">#7eb19a</color>
 
+    <color name="color_01_settings">#88ed5c76</color>
+    <color name="color_02_settings">#88f09693</color>
+    <color name="color_03_settings">#88f9cdad</color>
+    <color name="color_04_settings">#88c3c39e</color>
+    <color name="color_05_settings">#887eb19a</color>
+
+    <string name="title_activity_settings">SettingsActivity</string>
 
 </resources>

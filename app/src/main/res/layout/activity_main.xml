@@ -80,6 +80,16 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:layout_weight="1"
-        android:background="@color/color_05"></LinearLayout>
+        android:background="@color/color_05"
+        android:gravity="center_vertical|center_horizontal">
+
+        <Button
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:id="@+id/confi"
+            android:background="@drawable/settings"
+            />
+
+    </LinearLayout>
 
 </LinearLayout>
